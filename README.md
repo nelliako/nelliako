@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MSc Computer Science at the University of Nottingham**
 
-- 📫 How to reach me **nellia.kornilova@gmail.com**
+- 📫 You can reach out to me at **nellia.kornilova@gmail.com**
 
 <p align="left">
 </p>
