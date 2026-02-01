@@ -3,7 +3,7 @@
 
 - 🔭 My latest project is [UK Immigration Map](https://e48b3fd1-a2f7-466c-b701-59612fa31e58-00-2eeg2e9zv9n8f.riker.replit.dev/)
 
-- 🌱 I’m currently learning **MSc Computer Science at the University of Nottingham**
+- 🌱 I’m currently studying **MSc Computer Science at the University of Nottingham**
 
 - 📫 You can reach out to me at **nellia.kornilova@gmail.com**
 
