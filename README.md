@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nellia</h1>
 <h3 align="center">MSc Computer Science student at the University of Nottingham, building on a social sciences foundation from UCL. Focussing on Python development and data analysis.</h3>
 
-- 🔭 My latest project is [UK Immigration Map](https://e48b3fd1-a2f7-466c-b701-59612fa31e58-00-2eeg2e9zv9n8f.riker.replit.dev/)
+- 🔭 My latest project is [UK Immigration Map]([https://e48b3fd1-a2f7-466c-b701-59612fa31e58-00-2eeg2e9zv9n8f.riker.replit.dev/](https://github.com/nelliako/UK_immigration_map)
 
 - 🌱 I’m currently studying **MSc Computer Science at the University of Nottingham**
 
